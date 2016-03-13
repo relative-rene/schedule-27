@@ -17,7 +17,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 |  | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | **Drills** | Orientation | [Kyrel](link) (Travis) | [Kyrel](link) (Travis) | [Kyrel](link) (Travis) | [Extend Kyrel](link) (Travis) |
-| **Module 1** | Orientation | [Control Flow](link) (Travis) | [Array Methods](link) (Brianna) | [jQuery & DOM](link) (Cory) | [Review](link) (ALL) |
+| **Module 1** | Orientation | [Control Flow](https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-control-flow/25) (TG) | [Array Methods](link) (Brianna) | [jQuery & DOM](link) (Cory) | [Review](link) (ALL) |
 | **Module 2** | [Assessment](https://github.com/SF-WDI-LABS/shared_modules/tree/master/assessments/27-28/day-01) ([Solutions](https://github.com/SF-WDI-LABS/shared_modules/blob/master/assessments/27-28/day-01/solutions.md)) <br><br> [What is the Internet, Terminal, Git/GitHub](https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/how-the-internet-works/27-28) (Cory) | [Functions & Arguments](link) (Brianna) | [Bootstrap & Class-based CSS](link) (Cory) | [DOM Events](link) (Brianna) |  [Tic-Tac-Toe Weekend Lab](link) <br><br> Outcomes |
 | **Evening Homework** | [Command Line Mystery](https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01) | [JS Primitives & Objects](link) | [Selectors](link) | [Practice jQuery](link) | [Continue Tic-Tac-Toe Weekend Lab](link) |
 
